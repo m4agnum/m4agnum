@@ -21,3 +21,10 @@
   </a>
 </div>
 
+# FiveM Panel
+
+![Version](https://img.shields.io:/badge/Version-Beta-Green?style=flat-square)
+![Developers](https://img.shields.io:/badge/Developers-2-blue?style=flat-square)
+
+![Demo](../main/panel_light.png?raw=true)
+ 
