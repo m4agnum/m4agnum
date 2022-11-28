@@ -25,5 +25,5 @@
 
 ![Demo](../main/panel_light.png?raw=true)
 
-![Demo](../main/imagine.png?raw=true)
+![Demo](../main/image.png?raw=true)
  
