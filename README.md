@@ -5,7 +5,7 @@
 - 🔥: Ma cheama m4agnum sunt din Chisinau si am pasiune pentru scripting 
 - :scroll: Limbi cunoscute: javascript, PHP, NODE.js
 - :telescope: Working on: Fivem-Panel (PHP)
-- :bar_chart: Viitorul apropiat:[React](https://reactjs.org/)
+- :bar_chart: Viitorul apropiat: [React](https://reactjs.org/)
 - 📱 discord: M4agnum#9786
 
 ## :bar_chart:  Portofoliu:
