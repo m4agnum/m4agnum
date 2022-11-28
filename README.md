@@ -26,4 +26,6 @@
 ![Demo](../main/panel_light.png?raw=true)
 
 ![Demo](../main/image.png?raw=true)
+
+![Demo](../main/image2.png?raw=true)
  
