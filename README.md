@@ -19,8 +19,11 @@
   <a href="https://github-readme-stats.vercel.app/api?username=jefestef&theme=city_lights">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=m4agnum&count_private=true&show_icons=true&theme=city_lights" />
   </a>
+  
 </div>
 
 
 ![Demo](../main/panel_light.png?raw=true)
+
+![Demo](../main/imagine.png?raw=true)
  
