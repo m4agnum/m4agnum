@@ -3,11 +3,9 @@
 [![Github](https://img.shields.io/github/followers/m4agnum?label=Followers&logo=Github)](https://github.com/m4agnum)
 [![Repos Badge](https://badges.pufler.dev/repos/m4agnum?color=blue&logo=GitBook)](https://github.com/m4agnum)
 - 🔥: Ma cheama m4agnum sunt din Chisinau si am pasiune pentru scripting 
-- :scroll: Limbi cunoscute: javascript, c#, PHP, NODE.js
+- :scroll: Limbi cunoscute: javascript, PHP, NODE.js
 - :telescope: Working on: Fivem-Panel (PHP)
-- :bar_chart: Viitorul apropiat: crearea jocurilor in [Unity](https://unity.com/)
-- :video_game: Îmi place: să ma joc Fivem
-- 🚴 Îmi place: să ies cu bicicleta
+- :bar_chart: Viitorul apropiat:[React](https://reactjs.org/)
 - 📱 discord: M4agnum#9786
 
 ## :bar_chart:  Portofoliu:
